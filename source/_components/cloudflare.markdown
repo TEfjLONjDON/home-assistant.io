@@ -12,7 +12,7 @@ ha_category: Network
 ha_release: 0.74
 ---
 
-With the `cloudflare` component can you keep your Cloudflare records up to date.
+With the `cloudflare` component you can keep your Cloudflare records up to date.
 
 The component will run every hour, but can also be started manually by using the service `cloudflare.update_records` under services.
 
